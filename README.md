@@ -1,8 +1,8 @@
 # shakyo （写経）
 書き写す。とにかく書き写します。
 
-# 目次
-## [江戸川乱歩 鏡地獄 (PDF)](/EdogawaRanpo_Kagamijigoku.pdf)
+## 目次
+### No.01 [江戸川乱歩 鏡地獄 (PDF)](/EdogawaRanpo_Kagamijigoku.pdf) 
 
 ## License
 This document is released under the MIT License, see LICENSE.
