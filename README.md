@@ -3,6 +3,7 @@
 
 ## 目次
 ### No.01 [江戸川乱歩 鏡地獄 (PDF)](/EdogawaRanpo_Kagamijigoku.pdf) 
+* クリックしても最後まで表示されない場合は、PDFファイルをダウンロードしてください。
 
 ## License
 This document is released under the MIT License, see LICENSE.
