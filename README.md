@@ -5,7 +5,7 @@
 ### No.01 [鏡地獄 江戸川乱歩(PDF)](/EdogawaRanpo_Kagamijigoku.pdf) 
 * ボールペン（JETSTREAM）
 * UD デジタル 教科書体 NP-B size 18
-### No.02 [海中時計 夢野久作(PDF)](/YumenoKyusaku_Kaicyudokei.pdf)
+### No.02 [懐中時計 夢野久作(PDF)](/YumenoKyusaku_Kaicyudokei.pdf)
 * 万年筆
 * UD デジタル 教科書体 NP-B size 18
 ---- 
