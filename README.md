@@ -18,7 +18,7 @@
 * No.01 鏡地獄 江戸川乱歩(青空文庫) 底本：江戸川乱歩傑作選 (新潮文庫、新潮社)
   * https://www.aozora.gr.jp/cards/001779/card57343.html
 * No.02 懐中時計 夢野久作(青空文庫) 底本：夢野久作全集7(三一書房)
-  * https://www.aozora.gr.jp/cards/000096/files/46823_27680.html
+  * https://www.aozora.gr.jp/cards/000096/card46823.html
 
 * 青空文庫
   * https://www.aozora.gr.jp/guide/kijyunn.html
